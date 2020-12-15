@@ -1,0 +1,4 @@
+cd ~/Desktop/Project
+git init
+git checkout -b develop
+touch README.md
